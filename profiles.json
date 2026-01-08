@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "u001",
+    "name": "Rohan Iyer",
+    "title": "Data Engineer",
+    "team": "Platform",
+    "location": "Chennai",
+    "email": "rohan.iyer@company.com",
+    "experience_years": 4,
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "EventBridge",
+      "Kafka",
+      "Kubernetes",
+      "Node.js",
+      "Python"
+    ],
+    "domains": [
+      "mobile apps",
+      "real-time chat",
+      "observability",
+      "customer support"
+    ],
+    "projects": [
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: Redis TLS.",
+        "stack": [
+          "RAG",
+          "LlamaIndex",
+          "Kafka",
+          "Docker",
+          "Chroma"
+        ]
+      },
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: MikroORM.",
+        "stack": [
+          "RAG",
+          "EventBridge",
+          "LlamaIndex",
+          "Docker",
+          "Python",
+          "Chroma"
+        ]
+      },
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: vector database.",
+        "stack": [
+          "CI/CD",
+          "RAG",
+          "LlamaIndex",
+          "Kubernetes",
+          "Chroma"
+        ]
+      }
+    ],
+    "bio": "Data Engineer in Platform. Works on mobile apps. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like Bedrock."
+  },
+  {
+    "id": "u002",
+    "name": "Zoya Chatterjee",
+    "title": "Backend Engineer",
+    "team": "Product",
+    "location": "Delhi",
+    "email": "zoya.chatterjee@company.com",
+    "experience_years": 8,
+    "skills": [
+      "ALB",
+      "AWS",
+      "IAM",
+      "Next.js",
+      "Node.js",
+      "REST APIs",
+      "S3",
+      "Tailwind"
+    ],
+    "domains": [
+      "observability",
+      "ecommerce"
+    ],
+    "projects": [
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: Bedrock.",
+        "stack": [
+          "Airflow",
+          "Next.js",
+          "Pandas",
+          "Tailwind",
+          "Python"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: ElastiCache.",
+        "stack": [
+          "Node.js",
+          "Airflow",
+          "Python",
+          "Pandas"
+        ]
+      },
+      {
+        "name": "Infra Cost Optimizer",
+        "desc": "Created dashboards and automation to optimize cloud spend and right-size workloads. Focus: MedusaJS.",
+        "stack": [
+          "CloudWatch",
+          "ALB",
+          "Node.js",
+          "Tailwind",
+          "AWS",
+          "Terraform"
+        ]
+      }
+    ],
+    "bio": "Backend Engineer in Product. Works on observability. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like semantic search."
+  },
+  {
+    "id": "u003",
+    "name": "Kavya Gupta",
+    "title": "Security Engineer",
+    "team": "ML",
+    "location": "Chennai",
+    "email": "kavya.gupta@company.com",
+    "experience_years": 4,
+    "skills": [
+      "CloudWatch",
+      "ECS",
+      "FAISS",
+      "Fargate",
+      "GraphQL",
+      "IAM",
+      "Lambda",
+      "LangChain",
+      "Node.js",
+      "Ollama",
+      "Prompting",
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [
+      "data platforms",
+      "marketing analytics"
+    ],
+    "projects": [
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: vector database.",
+        "stack": [
+          "Security",
+          "WAF",
+          "GraphQL",
+          "Lambda",
+          "LangChain",
+          "IAM"
+        ]
+      },
+      {
+        "name": "Infra Cost Optimizer",
+        "desc": "Created dashboards and automation to optimize cloud spend and right-size workloads. Focus: MikroORM.",
+        "stack": [
+          "CloudWatch",
+          "Prompting",
+          "FAISS",
+          "AWS",
+          "Terraform"
+        ]
+      }
+    ],
+    "bio": "Security Engineer in ML. Works on marketing analytics. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like ElastiCache."
+  },
+  {
+    "id": "u004",
+    "name": "Tanvi Patel",
+    "title": "Full Stack Engineer",
+    "team": "Integrations",
+    "location": "Bangalore",
+    "email": "tanvi.patel@company.com",
+    "experience_years": 3,
+    "skills": [
+      "AWS",
+      "EventBridge",
+      "IAM",
+      "Kafka",
+      "Postgres",
+      "REST APIs",
+      "Redis",
+      "S3",
+      "TypeScript"
+    ],
+    "domains": [
+      "security compliance",
+      "data platforms"
+    ],
+    "projects": [
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: semantic search.",
+        "stack": [
+          "ALB",
+          "EventBridge",
+          "ECS",
+          "Redis",
+          "AWS",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: ElastiCache.",
+        "stack": [
+          "ALB",
+          "EventBridge",
+          "ECS",
+          "Kafka",
+          "Redis",
+          "IAM",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: MikroORM.",
+        "stack": [
+          "Security",
+          "S3",
+          "IAM",
+          "WAF"
+        ]
+      }
+    ],
+    "bio": "Full Stack Engineer in Integrations. Works on data platforms. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like MikroORM."
+  },
+  {
+    "id": "u005",
+    "name": "Priya Kulkarni",
+    "title": "ML Engineer",
+    "team": "Platform",
+    "location": "Hyderabad",
+    "email": "priya.kulkarni@company.com",
+    "experience_years": 8,
+    "skills": [
+      "ALB",
+      "AWS",
+      "CI/CD",
+      "Chroma",
+      "Docker",
+      "ECS",
+      "Embeddings",
+      "Lambda",
+      "LlamaIndex",
+      "Ollama",
+      "Python",
+      "RAG",
+      "Terraform",
+      "TypeScript"
+    ],
+    "domains": [
+      "security compliance",
+      "marketing analytics"
+    ],
+    "projects": [
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: SageMaker.",
+        "stack": [
+          "Security",
+          "RAG",
+          "WAF",
+          "Lambda",
+          "IAM"
+        ]
+      },
+      {
+        "name": "Infra Cost Optimizer",
+        "desc": "Created dashboards and automation to optimize cloud spend and right-size workloads. Focus: MedusaJS.",
+        "stack": [
+          "CloudWatch",
+          "ALB",
+          "Embeddings",
+          "Lambda",
+          "AWS",
+          "Terraform"
+        ]
+      }
+    ],
+    "bio": "ML Engineer in Platform. Works on marketing analytics. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like vector database."
+  },
+  {
+    "id": "u006",
+    "name": "Sahil Chatterjee",
+    "title": "Mobile Engineer",
+    "team": "Support",
+    "location": "Hyderabad",
+    "email": "sahil.chatterjee@company.com",
+    "experience_years": 2,
+    "skills": [
+      "ALB",
+      "IAM",
+      "Node.js",
+      "Postgres",
+      "Python"
+    ],
+    "domains": [
+      "observability",
+      "real-time chat",
+      "ecommerce",
+      "customer support"
+    ],
+    "projects": [
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: Bedrock.",
+        "stack": [
+          "Postgres",
+          "RAG",
+          "Chroma",
+          "LlamaIndex"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: semantic search.",
+        "stack": [
+          "ALB",
+          "ECS",
+          "Node.js",
+          "Redis",
+          "IAM",
+          "WebSockets"
+        ]
+      }
+    ],
+    "bio": "Mobile Engineer in Support. Works on real-time chat. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like response streaming."
+  },
+  {
+    "id": "u007",
+    "name": "Arjun Saxena",
+    "title": "DevOps Engineer",
+    "team": "Product",
+    "location": "Pune",
+    "email": "arjun.saxena@company.com",
+    "experience_years": 8,
+    "skills": [
+      "AWS",
+      "CloudWatch",
+      "ElastiCache",
+      "EventBridge",
+      "GraphQL",
+      "IAM",
+      "Node.js",
+      "Postgres",
+      "Python",
+      "REST APIs",
+      "React",
+      "Redis TLS",
+      "S3",
+      "Vite",
+      "WebSockets"
+    ],
+    "domains": [
+      "customer support",
+      "ecommerce",
+      "observability",
+      "security compliance"
+    ],
+    "projects": [
+      {
+        "name": "Infra Cost Optimizer",
+        "desc": "Created dashboards and automation to optimize cloud spend and right-size workloads. Focus: MikroORM.",
+        "stack": [
+          "AWS",
+          "CloudWatch",
+          "Terraform",
+          "Vite"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: ElastiCache.",
+        "stack": [
+          "GraphQL",
+          "Airflow",
+          "Python",
+          "Pandas"
+        ]
+      }
+    ],
+    "bio": "DevOps Engineer in Product. Works on security compliance. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like response streaming."
+  },
+  {
+    "id": "u008",
+    "name": "Ananya Patel",
+    "title": "Backend Engineer",
+    "team": "ML",
+    "location": "Hyderabad",
+    "email": "ananya.patel@company.com",
+    "experience_years": 2,
+    "skills": [
+      "ALB",
+      "AWS",
+      "Chroma",
+      "ECS",
+      "EventBridge",
+      "FAISS",
+      "IAM",
+      "Ollama",
+      "Postgres",
+      "Python",
+      "REST APIs"
+    ],
+    "domains": [
+      "search",
+      "security compliance",
+      "payments"
+    ],
+    "projects": [
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: prompt guardrails.",
+        "stack": [
+          "Postgres",
+          "RAG",
+          "FAISS",
+          "LlamaIndex",
+          "Chroma"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: Redis TLS.",
+        "stack": [
+          "Postgres",
+          "Security",
+          "WAF",
+          "ECS",
+          "IAM",
+          "Chroma"
+        ]
+      }
+    ],
+    "bio": "Backend Engineer in ML. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like semantic search."
+  },
+  {
+    "id": "u009",
+    "name": "Parth Kulkarni",
+    "title": "Security Engineer",
+    "team": "Growth",
+    "location": "Bangalore",
+    "email": "parth.kulkarni@company.com",
+    "experience_years": 2,
+    "skills": [
+      "ECS",
+      "EventBridge",
+      "Lambda",
+      "Node.js",
+      "React",
+      "Redis",
+      "Tailwind",
+      "TypeScript",
+      "WebSockets"
+    ],
+    "domains": [
+      "search",
+      "security compliance"
+    ],
+    "projects": [
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: MedusaJS.",
+        "stack": [
+          "Lambda",
+          "Airflow",
+          "Python",
+          "Pandas"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: semantic search.",
+        "stack": [
+          "Airflow",
+          "Pandas",
+          "Node.js",
+          "Redis",
+          "Python"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: semantic search.",
+        "stack": [
+          "EventBridge",
+          "Airflow",
+          "Python",
+          "Pandas"
+        ]
+      }
+    ],
+    "bio": "Security Engineer in Growth. Works on search. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like ElastiCache."
+  },
+  {
+    "id": "u010",
+    "name": "Priya Singh",
+    "title": "Full Stack Engineer",
+    "team": "Finance",
+    "location": "Delhi",
+    "email": "priya.singh@company.com",
+    "experience_years": 6,
+    "skills": [
+      "Chroma",
+      "CloudWatch",
+      "Embeddings",
+      "EventBridge",
+      "Fargate",
+      "Lambda",
+      "LlamaIndex",
+      "Ollama",
+      "Postgres",
+      "Python",
+      "RAG"
+    ],
+    "domains": [
+      "data platforms",
+      "security compliance",
+      "real-time chat",
+      "customer support"
+    ],
+    "projects": [
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: SageMaker.",
+        "stack": [
+          "Security",
+          "IAM",
+          "Fargate",
+          "WAF"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: MikroORM.",
+        "stack": [
+          "ALB",
+          "ECS",
+          "Redis",
+          "Ollama",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: Bedrock.",
+        "stack": [
+          "Airflow",
+          "Python",
+          "RAG",
+          "Pandas"
+        ]
+      }
+    ],
+    "bio": "Full Stack Engineer in Finance. Works on security compliance. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like SageMaker."
+  },
+  {
+    "id": "u011",
+    "name": "Parth Verma",
+    "title": "Backend Engineer",
+    "team": "Security",
+    "location": "Remote",
+    "email": "parth.verma@company.com",
+    "experience_years": 2,
+    "skills": [
+      "CloudWatch",
+      "DAST",
+      "Fargate",
+      "Lambda",
+      "Node.js",
+      "Python",
+      "REST APIs",
+      "Redis",
+      "S3",
+      "SAST",
+      "Secrets Management",
+      "Threat Modeling",
+      "TypeScript",
+      "VPC",
+      "WAF"
+    ],
+    "domains": [
+      "mobile apps",
+      "security compliance",
+      "marketing analytics"
+    ],
+    "projects": [
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: Bedrock.",
+        "stack": [
+          "WAF",
+          "RAG",
+          "Chroma",
+          "LlamaIndex"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: MedusaJS.",
+        "stack": [
+          "Fargate",
+          "ALB",
+          "ECS",
+          "Redis",
+          "Lambda",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: response streaming.",
+        "stack": [
+          "Security",
+          "S3",
+          "IAM",
+          "WAF"
+        ]
+      }
+    ],
+    "bio": "Backend Engineer in Security. Works on security compliance. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like prompt guardrails."
+  },
+  {
+    "id": "u012",
+    "name": "Shaurya Nair",
+    "title": "Full Stack Engineer",
+    "team": "DevOps",
+    "location": "Remote",
+    "email": "shaurya.nair@company.com",
+    "experience_years": 3,
+    "skills": [
+      "Docker",
+      "EventBridge",
+      "Fargate",
+      "Kafka",
+      "Lambda",
+      "Nginx",
+      "Node.js",
+      "Postgres",
+      "Python",
+      "Terraform",
+      "TypeScript"
+    ],
+    "domains": [
+      "observability",
+      "payments"
+    ],
+    "projects": [
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: Redis TLS.",
+        "stack": [
+          "Node.js",
+          "Airflow",
+          "Python",
+          "Pandas"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: Bedrock.",
+        "stack": [
+          "Security",
+          "Lambda",
+          "IAM",
+          "WAF"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: Bedrock.",
+        "stack": [
+          "Airflow",
+          "Python",
+          "Kafka",
+          "Pandas"
+        ]
+      }
+    ],
+    "bio": "Full Stack Engineer in DevOps. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like response streaming."
+  },
+  {
+    "id": "u013",
+    "name": "Kabir Shah",
+    "title": "Full Stack Engineer",
+    "team": "Data",
+    "location": "Delhi",
+    "email": "kabir.shah@company.com",
+    "experience_years": 10,
+    "skills": [
+      "CloudWatch",
+      "EventBridge",
+      "GraphQL",
+      "Lambda",
+      "Node.js",
+      "Parquet",
+      "Postgres",
+      "Redis",
+      "S3",
+      "Snowflake",
+      "Spark"
+    ],
+    "domains": [
+      "real-time chat",
+      "search",
+      "mobile apps"
+    ],
+    "projects": [
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: prompt guardrails.",
+        "stack": [
+          "CloudWatch",
+          "Airflow",
+          "S3",
+          "Pandas",
+          "Python"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: SageMaker.",
+        "stack": [
+          "CloudWatch",
+          "Airflow",
+          "Snowflake",
+          "Pandas",
+          "Redis",
+          "Python"
+        ]
+      }
+    ],
+    "bio": "Full Stack Engineer in Data. Works on mobile apps. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like vector database."
+  },
+  {
+    "id": "u014",
+    "name": "Kabir Malhotra",
+    "title": "Security Engineer",
+    "team": "Infra",
+    "location": "Delhi",
+    "email": "kabir.malhotra@company.com",
+    "experience_years": 3,
+    "skills": [
+      "ElastiCache",
+      "EventBridge",
+      "Helm",
+      "IAM",
+      "Kafka",
+      "Kubernetes",
+      "Lambda",
+      "Nginx",
+      "Postgres",
+      "REST APIs",
+      "Redis TLS",
+      "WebSockets"
+    ],
+    "domains": [
+      "mobile apps",
+      "customer support",
+      "payments"
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce Backend Revamp",
+        "desc": "Migrated order & inventory services; added observability and improved latency under load. Focus: MikroORM.",
+        "stack": [
+          "Postgres",
+          "ElastiCache",
+          "Node.js",
+          "Redis",
+          "Nginx",
+          "Redis TLS"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: response streaming.",
+        "stack": [
+          "Security",
+          "IAM",
+          "Kafka",
+          "WAF"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: MedusaJS.",
+        "stack": [
+          "REST APIs",
+          "Security",
+          "WAF",
+          "Helm",
+          "IAM"
+        ]
+      }
+    ],
+    "bio": "Security Engineer in Infra. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like SageMaker."
+  },
+  {
+    "id": "u015",
+    "name": "Divya Singh",
+    "title": "Backend Engineer",
+    "team": "Growth",
+    "location": "Bangalore",
+    "email": "divya.singh@company.com",
+    "experience_years": 4,
+    "skills": [
+      "AWS",
+      "Chroma",
+      "CloudWatch",
+      "ECS",
+      "Embeddings",
+      "EventBridge",
+      "GraphQL",
+      "IAM",
+      "LlamaIndex",
+      "Next.js",
+      "Ollama",
+      "Postgres",
+      "RAG",
+      "REST APIs",
+      "Redis",
+      "TypeScript",
+      "Vite"
+    ],
+    "domains": [
+      "security compliance",
+      "payments"
+    ],
+    "projects": [
+      {
+        "name": "Infra Cost Optimizer",
+        "desc": "Created dashboards and automation to optimize cloud spend and right-size workloads. Focus: semantic search.",
+        "stack": [
+          "AWS",
+          "CloudWatch",
+          "RAG",
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: semantic search.",
+        "stack": [
+          "Embeddings",
+          "RAG",
+          "Chroma",
+          "LlamaIndex"
+        ]
+      }
+    ],
+    "bio": "Backend Engineer in Growth. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like response streaming."
+  },
+  {
+    "id": "u016",
+    "name": "Neha Reddy",
+    "title": "Mobile Engineer",
+    "team": "Infra",
+    "location": "Remote",
+    "email": "neha.reddy@company.com",
+    "experience_years": 8,
+    "skills": [
+      "ALB",
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "Fargate",
+      "Helm",
+      "IAM",
+      "Kafka",
+      "Lambda",
+      "Nginx",
+      "Postgres",
+      "Python",
+      "REST APIs"
+    ],
+    "domains": [
+      "marketing analytics",
+      "observability"
+    ],
+    "projects": [
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: MedusaJS.",
+        "stack": [
+          "Security",
+          "IAM",
+          "WAF"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: response streaming.",
+        "stack": [
+          "ALB",
+          "ECS",
+          "Kafka",
+          "Redis",
+          "Nginx",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": "Ecommerce Backend Revamp",
+        "desc": "Migrated order & inventory services; added observability and improved latency under load. Focus: vector database.",
+        "stack": [
+          "Node.js",
+          "Fargate",
+          "Postgres",
+          "Redis"
+        ]
+      }
+    ],
+    "bio": "Mobile Engineer in Infra. Works on observability. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like prompt guardrails."
+  },
+  {
+    "id": "u017",
+    "name": "Sanya Shah",
+    "title": "Product Engineer",
+    "team": "Integrations",
+    "location": "Remote",
+    "email": "sanya.shah@company.com",
+    "experience_years": 7,
+    "skills": [
+      "ALB",
+      "CloudWatch",
+      "Fargate",
+      "Node.js",
+      "Postgres",
+      "Python",
+      "REST APIs",
+      "Redis"
+    ],
+    "domains": [
+      "payments",
+      "real-time chat",
+      "search"
+    ],
+    "projects": [
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: semantic search.",
+        "stack": [
+          "Security",
+          "REST APIs",
+          "WAF",
+          "Node.js",
+          "Redis",
+          "IAM"
+        ]
+      },
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: prompt guardrails.",
+        "stack": [
+          "Postgres",
+          "Fargate",
+          "RAG",
+          "ALB",
+          "LlamaIndex",
+          "Chroma"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: vector database.",
+        "stack": [
+          "REST APIs",
+          "Security",
+          "IAM",
+          "WAF"
+        ]
+      }
+    ],
+    "bio": "Product Engineer in Integrations. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like semantic search."
+  },
+  {
+    "id": "u018",
+    "name": "Bhavya Patel",
+    "title": "ML Engineer",
+    "team": "Security",
+    "location": "Pune",
+    "email": "bhavya.patel@company.com",
+    "experience_years": 4,
+    "skills": [
+      "AWS",
+      "CloudWatch",
+      "DAST",
+      "ECS",
+      "GraphQL",
+      "Kafka",
+      "Postgres",
+      "Python",
+      "REST APIs",
+      "S3",
+      "SAST",
+      "Threat Modeling"
+    ],
+    "domains": [
+      "real-time chat",
+      "mobile apps",
+      "observability",
+      "ecommerce"
+    ],
+    "projects": [
+      {
+        "name": "Infra Cost Optimizer",
+        "desc": "Created dashboards and automation to optimize cloud spend and right-size workloads. Focus: MikroORM.",
+        "stack": [
+          "AWS",
+          "CloudWatch",
+          "GraphQL",
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Ecommerce Backend Revamp",
+        "desc": "Migrated order & inventory services; added observability and improved latency under load. Focus: semantic search.",
+        "stack": [
+          "Postgres",
+          "REST APIs",
+          "GraphQL",
+          "Node.js",
+          "Redis",
+          "AWS"
+        ]
+      }
+    ],
+    "bio": "ML Engineer in Security. Works on observability. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like Bedrock."
+  },
+  {
+    "id": "u019",
+    "name": "Bhavya Bansal",
+    "title": "QA Engineer",
+    "team": "Product",
+    "location": "Chennai",
+    "email": "bhavya.bansal@company.com",
+    "experience_years": 2,
+    "skills": [
+      "EventBridge",
+      "GraphQL",
+      "Lambda",
+      "Next.js",
+      "Node.js",
+      "React",
+      "Redis",
+      "Tailwind",
+      "Vite",
+      "WebSockets"
+    ],
+    "domains": [
+      "data platforms",
+      "ecommerce",
+      "real-time chat",
+      "marketing analytics"
+    ],
+    "projects": [
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: Bedrock.",
+        "stack": [
+          "Security",
+          "WAF",
+          "GraphQL",
+          "React",
+          "IAM"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: vector database.",
+        "stack": [
+          "ALB",
+          "GraphQL",
+          "ECS",
+          "Redis",
+          "Lambda",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: MikroORM.",
+        "stack": [
+          "Airflow",
+          "EventBridge",
+          "Pandas",
+          "Redis",
+          "Lambda",
+          "Python"
+        ]
+      }
+    ],
+    "bio": "QA Engineer in Product. Works on real-time chat. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like prompt guardrails."
+  },
+  {
+    "id": "u020",
+    "name": "Varun Ghosh",
+    "title": "Mobile Engineer",
+    "team": "Analytics",
+    "location": "Pune",
+    "email": "varun.ghosh@company.com",
+    "experience_years": 7,
+    "skills": [
+      "ALB",
+      "Airflow",
+      "BigQuery",
+      "Chroma",
+      "CloudWatch",
+      "Data Modeling",
+      "Embeddings",
+      "EventBridge",
+      "IAM",
+      "Kafka",
+      "LlamaIndex",
+      "Node.js",
+      "Ollama",
+      "Pandas",
+      "RAG",
+      "REST APIs",
+      "Snowflake",
+      "TypeScript",
+      "dbt"
+    ],
+    "domains": [
+      "customer support",
+      "data platforms"
+    ],
+    "projects": [
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: response streaming.",
+        "stack": [
+          "Airflow",
+          "Snowflake",
+          "Pandas",
+          "Embeddings",
+          "Python"
+        ]
+      },
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: vector database.",
+        "stack": [
+          "EventBridge",
+          "RAG",
+          "Chroma",
+          "LlamaIndex"
+        ]
+      },
+      {
+        "name": "Ecommerce Backend Revamp",
+        "desc": "Migrated order & inventory services; added observability and improved latency under load. Focus: semantic search.",
+        "stack": [
+          "Postgres",
+          "EventBridge",
+          "Pandas",
+          "Node.js",
+          "Embeddings",
+          "Redis"
+        ]
+      }
+    ],
+    "bio": "Mobile Engineer in Analytics. Works on customer support. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like ElastiCache."
+  },
+  {
+    "id": "u021",
+    "name": "Ishita Kumar",
+    "title": "DevOps Engineer",
+    "team": "Web",
+    "location": "Chennai",
+    "email": "ishita.kumar@company.com",
+    "experience_years": 5,
+    "skills": [
+      "ALB",
+      "CloudWatch",
+      "ElastiCache",
+      "Fargate",
+      "GraphQL",
+      "IAM",
+      "Python",
+      "REST APIs",
+      "React",
+      "Redis",
+      "Redis TLS",
+      "S3",
+      "Tailwind",
+      "Vite",
+      "WebSockets"
+    ],
+    "domains": [
+      "observability",
+      "customer support",
+      "ecommerce",
+      "security compliance"
+    ],
+    "projects": [
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: semantic search.",
+        "stack": [
+          "Redis TLS",
+          "RAG",
+          "Chroma",
+          "LlamaIndex"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: prompt guardrails.",
+        "stack": [
+          "Airflow",
+          "Pandas",
+          "Tailwind",
+          "Redis",
+          "IAM",
+          "Python"
+        ]
+      }
+    ],
+    "bio": "DevOps Engineer in Web. Works on ecommerce. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like ElastiCache."
+  },
+  {
+    "id": "u022",
+    "name": "Yash Singh",
+    "title": "ML Engineer",
+    "team": "Security",
+    "location": "Mumbai",
+    "email": "yash.singh@company.com",
+    "experience_years": 3,
+    "skills": [
+      "AWS",
+      "Fargate",
+      "IAM",
+      "Kafka",
+      "Lambda",
+      "Node.js",
+      "Redis",
+      "Secrets Management",
+      "Threat Modeling",
+      "TypeScript",
+      "VPC",
+      "WAF"
+    ],
+    "domains": [
+      "data platforms",
+      "payments",
+      "security compliance",
+      "observability"
+    ],
+    "projects": [
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: semantic search.",
+        "stack": [
+          "Node.js",
+          "RAG",
+          "Chroma",
+          "LlamaIndex"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: semantic search.",
+        "stack": [
+          "ALB",
+          "ECS",
+          "Redis",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: MikroORM.",
+        "stack": [
+          "Threat Modeling",
+          "Fargate",
+          "ALB",
+          "ECS",
+          "Redis",
+          "IAM",
+          "WebSockets"
+        ]
+      }
+    ],
+    "bio": "ML Engineer in Security. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like prompt guardrails."
+  },
+  {
+    "id": "u023",
+    "name": "Ishita Mehta",
+    "title": "Security Engineer",
+    "team": "DevOps",
+    "location": "Bangalore",
+    "email": "ishita.mehta@company.com",
+    "experience_years": 7,
+    "skills": [
+      "CI/CD",
+      "CloudWatch",
+      "Docker",
+      "EventBridge",
+      "GitHub Actions",
+      "GraphQL",
+      "IAM",
+      "Lambda",
+      "Postgres",
+      "REST APIs"
+    ],
+    "domains": [
+      "observability",
+      "data platforms"
+    ],
+    "projects": [
+      {
+        "name": "Expertise Finder (RAG)",
+        "desc": "Implemented internal expertise search using embeddings + vector DB with grounded LLM answers and citations. Focus: response streaming.",
+        "stack": [
+          "CloudWatch",
+          "RAG",
+          "Chroma",
+          "LlamaIndex"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: vector database.",
+        "stack": [
+          "Postgres",
+          "ALB",
+          "ECS",
+          "Redis",
+          "WebSockets"
+        ]
+      }
+    ],
+    "bio": "Security Engineer in DevOps. Works on data platforms. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like prompt guardrails."
+  },
+  {
+    "id": "u024",
+    "name": "Nikhil Joshi",
+    "title": "Data Engineer",
+    "team": "Platform",
+    "location": "Mumbai",
+    "email": "nikhil.joshi@company.com",
+    "experience_years": 5,
+    "skills": [
+      "ALB",
+      "Docker",
+      "ECS",
+      "Fargate",
+      "GraphQL",
+      "Helm",
+      "IAM",
+      "Kafka",
+      "Kubernetes",
+      "Nginx",
+      "Python",
+      "REST APIs",
+      "S3",
+      "TypeScript"
+    ],
+    "domains": [
+      "mobile apps",
+      "data platforms",
+      "payments",
+      "real-time chat"
+    ],
+    "projects": [
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: SageMaker.",
+        "stack": [
+          "Security",
+          "WAF",
+          "S3",
+          "TypeScript",
+          "IAM"
+        ]
+      },
+      {
+        "name": "Infra Cost Optimizer",
+        "desc": "Created dashboards and automation to optimize cloud spend and right-size workloads. Focus: prompt guardrails.",
+        "stack": [
+          "CloudWatch",
+          "Kubernetes",
+          "Kafka",
+          "Terraform",
+          "AWS",
+          "Python"
+        ]
+      },
+      {
+        "name": "Real-time Chat Gateway",
+        "desc": "Built WebSocket gateway with connection mapping and pub/sub routing. Added message streaming and retries. Focus: prompt guardrails.",
+        "stack": [
+          "ALB",
+          "ECS",
+          "Redis",
+          "TypeScript",
+          "WebSockets"
+        ]
+      }
+    ],
+    "bio": "Data Engineer in Platform. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like Redis TLS."
+  },
+  {
+    "id": "u025",
+    "name": "Akshay Kumar",
+    "title": "Product Engineer",
+    "team": "ML",
+    "location": "Remote",
+    "email": "akshay.kumar@company.com",
+    "experience_years": 10,
+    "skills": [
+      "Chroma",
+      "CloudWatch",
+      "Embeddings",
+      "FAISS",
+      "Fargate",
+      "GraphQL",
+      "LangChain",
+      "LlamaIndex",
+      "Ollama",
+      "Prompting",
+      "RAG",
+      "Redis"
+    ],
+    "domains": [
+      "payments",
+      "customer support"
+    ],
+    "projects": [
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: MikroORM.",
+        "stack": [
+          "Airflow",
+          "Prompting",
+          "Pandas",
+          "LangChain",
+          "Python"
+        ]
+      },
+      {
+        "name": "Campaign Anomaly Detection",
+        "desc": "Built pipeline to detect anomalies across campaigns/ISPs using rolling stats + ML models with alerting. Focus: SageMaker.",
+        "stack": [
+          "Airflow",
+          "Pandas",
+          "Embeddings",
+          "Python",
+          "Chroma"
+        ]
+      },
+      {
+        "name": "Secure API Gateway Layer",
+        "desc": "Added authn/z, rate-limiting, and WAF policies; improved audit readiness. Focus: semantic search.",
+        "stack": [
+          "CloudWatch",
+          "Security",
+          "WAF",
+          "Redis",
+          "IAM"
+        ]
+      }
+    ],
+    "bio": "Product Engineer in ML. Works on payments. Enjoys shipping reliable systems and clean APIs. Known for debugging tricky issues like Bedrock."
+  }
+]
